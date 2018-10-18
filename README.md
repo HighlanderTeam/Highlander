@@ -8,7 +8,7 @@ Steps to take before running application locally:
 
 Git process in Terminal
 
-Git clone *this repository url
+Git clone *this repository url /n
 *Make changes
 Git add .
 Git commit
